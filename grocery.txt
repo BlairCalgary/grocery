@@ -1,0 +1,268 @@
+	item	category
+	Potatoes	Produce
+	Mushrooms	Produce
+	Onions	Produce
+	Cucumbers	Produce
+	Lettuce	Produce
+	Tomatoes	Produce
+	Carrots	Produce
+	Celery	Produce
+	Zucchini	Produce
+	Broccoli	Produce
+	Cauliflower	Produce
+	Spinach	Produce
+	Bell Peppers	Produce
+	Tofu	Produce
+	Strawberries	Produce
+	Bananas	Produce
+	Apples	Produce
+	Oranges	Produce
+	Grapes	Produce
+	Grapefruit	Produce
+	Melon	Produce
+	Nectarines	Produce
+	Peaches	Produce
+	Pears	Produce
+	Plums	Produce
+	Lemon/Lime	Produce
+	Blueberries	Produce
+	Raspberries	Produce
+	Avacados	Produce
+	Kiwi	Produce
+	Fresh Herbs	Produce
+	Deli Meats	Deli
+	Deli Cheese	Deli
+	Deli Salads	Deli
+	Rotisserie Chicken	Deli
+	White Bread	Breads
+	Whole Wheat Bread	Breads
+	Hot Dog Buns	Breads
+	Hamburger Buns	Breads
+	Bagels	Breads
+	Biscuits	Breads
+	English Muffins	Breads
+	Tortillas	Breads
+	Pitas	Breads
+	Muffins	Breads
+	Milk	Dairy
+	Butter/Margarine	Dairy
+	Eggs	Dairy
+	Yogurt	Dairy
+	Cheese	Dairy
+	Cream Cheese	Dairy
+	Cottage Cheese	Dairy
+	Sour Cream	Dairy
+	Coffee Creamer	Dairy
+	Orange Juice	Dairy
+	Cookie Dough	Dairy
+	Dinner Roll Dough	Dairy
+	Olive Oil	Condiments
+	Salad Dressing	Condiments
+	Vinegar	Condiments
+	Mayonnaise	Condiments
+	Marinade	Condiments
+	Steak Sauce	Condiments
+	BBQ Sauce	Condiments
+	Ketchup	Condiments
+	Mustard	Condiments
+	Pickles/Relish	Condiments
+	Olives	Condiments
+	Jelly/Jam	Condiments
+	Peanut Butter	Condiments
+	Honey	Condiments
+	Salt/Pepper	Condiments
+	Seasoning Packets	Condiments
+	Spices	Condiments
+	Soy Sauce	Condiments
+	Tuna	Canned Goods
+	Tomato Sauce	Canned Goods
+	Mushrooms	Canned Goods
+	Soup/Chili	Canned Goods
+	Green Beans	Canned Veggies
+	Corn	Canned Veggies
+	Peas	Canned Veggies
+	Baked Beans	Canned Veggies
+	Applesauce	Canned/Cup Fruit
+	Pineapple	Canned/Cup Fruit
+	Peaches	Canned/Cup Fruit
+	Fruit Cocktail	Canned/Cup Fruit
+	Raisins	Canned/Cup Fruit
+	Mandarin Oranges	Canned/Cup Fruit
+	Pears	Canned/Cup Fruit
+	Spaghetti	Pasta
+	Lasagne Noodles	Pasta
+	Macaroni Noodles	Pasta
+	Rice	Pasta
+	Risotto	Pasta
+	Pasta Sauce	Pasta
+	Boxed Rice/Pasta	Pasta
+	Macaroni & Cheese	Pasta
+	Taco/Enchilada Mix	Ethnic Foods
+	Taco Shells	Ethnic Foods
+	Taco Sauce	Ethnic Foods
+	Salsa	Ethnic Foods
+	Tortillas	Ethnic Foods
+	Soy Sauce	Ethnic Foods
+	Teriyaki Sauce	Ethnic Foods
+Cereals		
+	Cereal	
+	Granola	
+	Oatmeal	
+	Breakfast Bars	
+	Granola Bars	
+	Toaster Pastries	
+Baking Needs		
+	Sugar	
+	Flour	
+	Vegetable Oil	
+	Cake/Brownie Mix	
+	Frosting	
+	Muffin Mix	
+	Cookie Mix	
+	Pancake Mix	
+	Pancake Syrup	
+	Baking Powder	
+	Baking Soda	
+	Vinegar	
+	Cooking Spray	
+	Vanilla Extract	
+	Baking Nuts	
+	Chocolate Chips	
+	Coconut	
+	Pudding	
+	Jello	
+	Marshmallows	
+	Sweetener	
+Snack Foods		
+	Cookies	
+	Crackers	
+	Graham Crackers	
+	Chips	
+	Popcorn	
+	Fruit Snacks	
+	100 Calorie Packs	
+	Pretzels	
+	Nuts/Trail Mix	
+Meat		
+	Ground Beef	
+	Chicken	
+	Ground Turkey	
+	Veal	
+	Beef Roast	
+	Steak	
+	Beef Patties	
+	Pork Chops	
+	Pork Roast	
+	Bacon	
+	Hot Dogs	
+	Sausage	
+	Brats	
+	Ham	
+	Cold Cuts	
+Seafood		
+	Shrimp	
+	Lobster	
+	Clams	
+	Crab	
+	Tilapia	
+	Orange Roughy	
+Frozen Foods		
+	Chicken Nuggets	
+	Fish Sticks	
+	Frozen Entrees	
+	Frozen Vegetables	
+	Frozen Fruit	
+	French Fries	
+	Pizza	
+	Waffles	
+	Pancakes	
+	Pie Crusts	
+	Ice Cream	
+	Whipped Cream	
+Beverages		
+	Fruit Juice	
+	Vegetable Juice	
+	Lemonade	
+	Sports Drinks	
+	Juice Boxes	
+	Bottled Water	
+	Drink Mixes	
+	Tea	
+	Coffee	
+	Coffee Filters	
+	Non-Dairy Creamer	
+	Soda	
+	Chocolate Syrup	
+	Strawberry Syrup	
+Bakery		
+	Donuts/Rolls	
+	Bagels	
+	Cookies	
+	Cake	
+	Brownies	
+	Pie	
+Baby Items		
+	Baby Food	
+	Baby Formula	
+	Diapers/Pull-Ups	
+	Baby Wipes	
+	Baby Wash	
+Pet Supplies		
+	Dog Food	
+	Cat Food	
+	Cat Litter	
+	Litter Box Liners	
+	Pet Toys	
+	Pet Treats	
+	Fish Food	
+Paper Goods		
+	Napkins	
+	Paper Towels	
+	Toilet Tissue	
+	Tissues	
+	Trash Bags	
+	Paper Plates	
+	Disposable Cups	
+	Baggies/Storage Bags	
+	Aluminum Foil	
+	Plastic Wrap	
+	Wax Paper	
+	Toothpicks	
+Cleaning Supplies		
+	Laundry Detergent	
+	Dryer Sheets	
+	Bleach	
+	Fabric Softener	
+	Stain Remover	
+	Dish Soap	
+	Dishwasher Soap	
+	Cleanser	
+	Glass Cleaner	
+	Dusting Spray	
+	Disinfectant	
+Health & Beauty		
+	Sunscreen	
+	Shampoo	
+	Conditioner	
+	Hair Styling Products	
+	Deodorant	
+	Bath Soap/Body Wash	
+	Feminine Supplies	
+	Pantyhose	
+	Makeup	
+	Face Wash	
+	Toothpaste	
+	Mouthwash	
+	Dental Floss	
+	Body Lotion	
+	Face Lotion	
+	Contact Lens Solution	
+	Bandages	
+	Antiseptic Cream	
+	Medicines	
+	Vitamins/Supplements	
+	Razors	
+	Shaving Cream	
+	Cotton Balls	
+	Cotton Swabs	
+	Hand soap/sanitizer	
